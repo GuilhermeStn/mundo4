@@ -1,0 +1,14 @@
+iframe{
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    border: 2px solid rgb(93, 93, 223);
+}
+
+body{
+    background-color: rgb(197, 197, 230);
+}
+
+header{
+    background-color: rgb(25, 59, 12);
+}
