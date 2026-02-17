@@ -12,3 +12,8 @@ body{
 header{
     background-color: rgb(25, 59, 12);
 }
+
+iframe#tela{
+    width: 95%;
+    border:2px solid rgb(0, 0, 0);
+}
