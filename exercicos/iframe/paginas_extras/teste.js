@@ -15,6 +15,4 @@ function again(){
     document.body.appendChild(but)
     but = document.createElement("button")
     document.body.appendChild(but)
-    but.onclick(alert("oi"))
-
 }
